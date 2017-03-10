@@ -1,7 +1,7 @@
 Store Parser
 ============
 
-Easy to parse googleplay or appstore data.
+Easy to parse googleplay or appstore data including ``name``, ``author``, ``description``, ``icon_url``
 
 Dependancy
 ----------
